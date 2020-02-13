@@ -12,11 +12,11 @@
   <packaging>bwear</packaging>
   <properties>
     <skipTests>false</skipTests>
-    <bw.Home></bw.Home>
     <project.type>Docker</project.type>
+    <bw.Home></bw.Home>
     <engineDebugPort>8090</engineDebugPort>
-    <failIfNoTests>false</failIfNoTests>
     <docker.property.file>docker-dev.properties</docker.property.file>
+    <failIfNoTests>false</failIfNoTests>
     <tibco.Home></tibco.Home>
   </properties>
   <build>
