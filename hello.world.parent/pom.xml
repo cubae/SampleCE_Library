@@ -21,8 +21,8 @@
         <artifactId>docker-maven-plugin</artifactId>
         <version>0.26.1</version>
         <configuration>
-	      <apiVersion>1.40</apiVersion>
-	      <skip>true</skip>
+          <apiVersion>1.40</apiVersion>
+          <skip>true</skip>
         </configuration>
       </plugin>
     </plugins>
