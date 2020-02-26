@@ -1,4 +1,4 @@
-Manifest-Version: 1.0.0.202002111358
+Manifest-Version: 1.0.0.202002261652
 Bundle-SymbolicName: hello.world.module
 Bundle-ManifestVersion: 2
 TIBCO-BW-Edition: bwcf
@@ -9,7 +9,7 @@ Require-Capability: com.tibco.bw.model; filter:="(name=bwext)",com.tib
 TIBCO-BW-ConfigProfile: META-INF/default.substvar
 TIBCO-BW-Version: 2.4.1 V6 2018-10-03
 Bundle-Name: Hello World Module
-Bundle-Version: 1.0.0.202002111358
+Bundle-Version: 1.0.0.202002261652
 Bundle-ClassPath: .
 TIBCO-BW-ApplicationModule: META-INF/module.bwm
 TIBCO-BW-JobSharedVariables: META-INF/module.jsv
